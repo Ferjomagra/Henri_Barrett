@@ -1,0 +1,26 @@
+{
+  "name": "henry_barret_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^6.2.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "google-translate-api": "^2.3.0",
+    "mongodb": "^3.6.8",
+    "mongoose": "^5.12.11",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "rename-keys": "^2.0.1",
+    "translate": "^1.2.3",
+    "translate-json-object": "^2.3.7"
+  }
+}
