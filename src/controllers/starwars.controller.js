@@ -9,7 +9,7 @@ const {Translate} = require('@google-cloud/translate').v2;
 const translate = new Translate({projectId});
 
 translate.engine = "google";
-translate.key = "AIzaSyBB_eR1i_2805MMUI512r-a56-3I4qz6TU";
+translate.key = "";
 /*F Translate*/
 
 
