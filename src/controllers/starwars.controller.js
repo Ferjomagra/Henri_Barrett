@@ -3,7 +3,7 @@ const fetch = require('node-fetch')
 const renameKeys = require('rename-keys')
 
 /*I Translate*/
-var projectId = '314817'
+var projectId = ''
 
 const {Translate} = require('@google-cloud/translate').v2;
 const translate = new Translate({projectId});
