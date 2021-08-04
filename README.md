@@ -1,4 +1,4 @@
-# Henri_Barrett
+# Translate Information Google API
 
 Hola, en este documento se hace la introducción a mi sistema el cual, por medio de un endpoint, selecciono un personaje, leo el formato JSON, traduzco los
 atributos de ingles a español, y finalmente, los almaceno en una colección utilizando la base de datos MongoDB.
